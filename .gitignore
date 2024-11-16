@@ -1,0 +1,36 @@
+# Python virtual environment folders
+env/
+venv/
+.venv/
+
+# Environment variables files
+.env
+.env.*
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Byte-compiled / optimized / compiled code
+*.py[cod]
+*$py.class
+
+# Spark logs and temp files
+metastore_db/
+derby.log
+
+# Cache and temporary files
+.cache/
+*.swp
